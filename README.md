@@ -125,20 +125,6 @@ I've built projects such as **RecruitAI**, an AI-powered recruitment platform, a
 </table>
 
 ---
-
-### 📊 GitHub Universe
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jyoti2103singh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyoti2103singh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jyoti2103singh&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🔭 Currently Exploring
 
 <table align="center">
@@ -221,6 +207,21 @@ A web application focused on using AI to make notices easier to process and unde
 </table>
 
 ---
+
+
+### 📊 GitHub Universe
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jyoti2103singh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyoti2103singh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jyoti2103singh&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 
 ### 🤝 Let's Connect
 
