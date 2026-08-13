@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Jyoti Singh</h1>
 
 <p align="center">
-  <b>Software Developer | AI Application Builder | Python • Flask • AI Agents • Web Development</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+applications.;Exploring+AI+agents+and+intelligent+systems.;Building+projects+with+code%2C+AI%2C+and+curiosity." alt="About Me Typing" />
 </p>
 
 <p align="center">
