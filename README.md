@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Jyoti Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+applications.;Exploring+AI+agents+and+intelligent+systems.;Building+projects+with+code%2C+AI%2C+and+curiosity." alt="About Me Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Software+Developer;Backend+AI+Intern;AI+Application+Builder;AI+Agents+%7C+Python+%7C+Flask+%7C+n8n;Building+Practical+AI-Powered+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -70,6 +70,12 @@ I've worked on projects such as **RecruitAI**, an AI-powered recruitment platfor
 * Explored how **AI agents and intelligent workflows** can be used in applications.
 
 ---
+## 🏆 Achievements
+
+- 🚀 **Smart India Hackathon 2025 – Internal Hackathon** — Built *EarlyBird*, an AI-based Student Dropout Prediction & Counselling System.
+- 🤖 **AI Agent Workflow** — Built an AI-powered automation workflow using **n8n, Gemini, SerpAPI & AI tools**.
+- 💻 **AI Project Development** — Built multiple practical AI applications including **RecruitAI** and **NoticeSense-AI**.
+- ⚡ **Backend AI Engineering Intern** — Currently working at **FlyRank AI**.
 
 ## 🛠️ Tech Arsenal
 
@@ -220,6 +226,96 @@ I've worked on projects such as **RecruitAI**, an AI-powered recruitment platfor
 * 🌐 **Recruiter Dashboard**
 
 🔗 **[Explore RecruitAI →](https://github.com/Jyoti2103singh/RecruitAI)**
+
+---
+## 🎓 **EarlyBird**
+
+### **AI-Based Student Dropout Prediction & Counselling System**
+
+🏆 **Smart India Hackathon 2025 — Internal Hackathon**
+
+`Python` • `Streamlit` • `ReactJS` • `Scikit-learn` • `XGBoost` • `SHAP` • `MySQL` • `Twilio API` • `HuggingFace Transformers` • `Flask/Django`
+
+> **EarlyBird** is an AI-driven solution designed to identify students at risk of dropping out and provide **early intervention, personalized counselling, and continuous support**.
+
+### ✨ **Key Features**
+
+- 🧠 **AI/ML-Based Dropout Risk Prediction**
+- 📊 **Low / Medium / High Risk Classification**
+- 💬 **Personalized Counselling & Intervention**
+- 🚨 **Real-Time Alerts for Teachers, Mentors & Parents**
+- 👥 **Smart Mentor Allocation**
+- 📱 **Student, Parent & Admin Dashboards**
+- 💭 **Sentiment & Behaviour Analysis**
+- 🔍 **Explainable AI with SHAP**
+- 🎮 **Gamification & Career Guidance**
+- 🌍 **Multilingual & Scalable Platform**
+
+### 🎯 **Mission**
+
+> Transform education from a **reactive system into a proactive support ecosystem** where no student is left behind.
+
+---
+## 🤖 **AI Agent Workflow**
+
+### **AI-Powered Workflow Automation using n8n**
+
+`n8n` • `Google Gemini` • `SerpAPI` • `Wikipedia Tool` • `Simple Memory` • `AI Agents`
+
+> Built an **AI Agent workflow using n8n** to explore how AI, automation, tools, memory, and external APIs can work together in a single intelligent workflow.
+
+### ✨ **Workflow Components**
+
+- 💎 **Google Gemini Chat Model**
+- 🧠 **Simple Memory**
+- 🔎 **SerpAPI for Google Search**
+- 📚 **Wikipedia Tool**
+- 🔄 **n8n Workflow Automation**
+- 🤖 **Tool-Based AI Agent**
+
+### 💡 **What I Explored**
+
+- 🧩 **AI Workflow Orchestration**
+- 🔌 **API Integration**
+- 🛠️ **Tool-Based AI Agents**
+- 🧠 **Memory Handling in AI Systems**
+- ⚙️ **Real-World Automation Concepts**
+
+---
+
+## 💬 **AI Chatbot**
+
+### **AI-Powered Conversational Application**
+
+`AI` • `Python` • `Web Development`
+
+> An AI-powered chatbot project focused on building an interactive conversational experience and exploring how AI can be integrated into user-facing applications.
+
+### ✨ **Key Areas**
+
+- 💬 **Conversational AI**
+- 🤖 **AI-Powered Responses**
+- 🌐 **Interactive User Interface**
+- 🔌 **AI Integration**
+- ⚙️ **Application-Based AI**
+
+---
+
+## 📧 **Email Automation Workflow**
+
+### **Automated Email Processing & Workflow**
+
+`Automation` • `AI` • `APIs` • `Workflow Automation`
+
+> An automation project focused on reducing repetitive email-related tasks through **automated workflows and intelligent processing**.
+
+### ✨ **Key Areas**
+
+- 📩 **Email Automation**
+- 🔄 **Workflow Processing**
+- 🤖 **AI-Assisted Automation**
+- 🔌 **API Integration**
+- ⚙️ **Reduced Manual Tasks**
 
 ---
 
