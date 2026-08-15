@@ -338,7 +338,7 @@ I've worked on projects such as **RecruitAI**, an AI-powered recruitment platfor
 * 🧠 **AI-Powered Workflows**
 * 🎨 **User-Friendly Interface**
 
-🔗 **[Explore My GitHub →](https://github.com/Jyoti2103singh)**
+🔗 **[Explore My GitHub →][(https://github.com/Jyoti2103singh)](https://github.com/Jyoti2103singh/NoticeSense-AI)**
 
 ---
 
